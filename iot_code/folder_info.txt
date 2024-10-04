@@ -1,0 +1,2 @@
+The source code to dump in iot device is available in this folder
+Board : esp32 devkit

@@ -1,0 +1,2 @@
+This sub folder contains ->> Data from thingspeak IoT cloud
+A copy is saved here(git)

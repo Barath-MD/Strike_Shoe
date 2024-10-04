@@ -1,0 +1,2 @@
+This folder contains ->> Data from thingspeak 
+A copy is saved here(git)

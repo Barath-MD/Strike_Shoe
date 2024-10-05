@@ -34,5 +34,5 @@
  * [Collab Folder](https://drive.google.com/drive/folders/112Qdr5gaD8mZ1U7n67ndsQetJe1yLnkT?usp=sharing)
  * [Presentation](https://1drv.ms/p/c/ec23c4583681336d/EdpRTcHZQOpDkg0qbM-UweUBKKeP-1CK0HOR1ckBj3KYKg?e=HFp02F)
 ## Images
-   ![working1](https://github.com/MUTHUNITHIN/Project_oneAPI_hack_kpr/blob/master/images/working_cover.jpeg)
+
    ![working2](https://github.com/MUTHUNITHIN/Project_oneAPI_hack_kpr/blob/master/images/working_ex2.jpeg)

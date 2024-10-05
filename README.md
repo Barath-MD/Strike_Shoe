@@ -14,7 +14,14 @@
 + The **IOT_code** folder contains the code for esp32 development board for the sensor data collection in the users shoes.
 
 + The **jupyter_notebooks** folder contains the jupyter notebook code for AI model and code for synthetic datasets.
-
+## Steps Involved
+### IoT && ML Workflow
+* 1)Esp32 based module collects data from shoe of the person
+* 2)Data is pushed to thingspeak IoT cloud using API [Cloud Dashboard](https://thingspeak.mathworks.com/channels/2683036)
+* 3)The data in cloud is accessed by code1[jupyter_notebooks\ml_v1.ipynb] , analyse with recent data and display the results and data in the app
+* 4)The app is developed with Unity Engine which serve as Dashboard for enduser
+### GenAI Workflow
+* 5) App also provides warnings when 
 ## Useful Links 
  * [Collab Folder](https://drive.google.com/drive/folders/112Qdr5gaD8mZ1U7n67ndsQetJe1yLnkT?usp=sharing)
  * [Presentation](https://1drv.ms/p/c/ec23c4583681336d/EdpRTcHZQOpDkg0qbM-UweUBKKeP-1CK0HOR1ckBj3KYKg?e=HFp02F)

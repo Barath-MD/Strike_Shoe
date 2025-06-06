@@ -1,4 +1,4 @@
-# **AI-Powered Intelligent System for the Early Detection of Foot Ulcers in Diabetic Patients**
+# **AI & IOT -Powered Intelligent System for the Early Detection of Foot Ulcers in Diabetic Patients**
 ## PROBLEM STATEMENT 
 > * Diabetes Patients are prone to foot infection due to lack of proper bloodflow , delayed recovery rate leading to Foot ulcer(unrecovered wound) leading to amputation of led fingers in worst care scenarios.
 > * This project is focused on providing _**predctive alert and primary care measures**_ for patients who use _**shoes regularly**_ for detecting foot ulcer earlier. 
